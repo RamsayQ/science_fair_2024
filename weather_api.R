@@ -28,7 +28,7 @@ url_list <- list()
 for (i in 0:(as.numeric(end_date - start_date))) {
   # Calculate the start and end dates for the current iteration by moving both dates forward
   target_start_date <- start_date + days(i)
-  target_end_date <- target_start_date + days(16)
+  target_end_date <- target_start_date + days(14)
   
   # Calculate the forecast basis date for the current iteration by moving it forward
   forecast_basis_date <- start_date - days(1) + days(i)  # Ensure consistent date object types
