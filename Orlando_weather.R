@@ -39,7 +39,7 @@ for (i in 0:(as.numeric(end_date - start_date))) {
   forecast_basis_date_str <- format(forecast_basis_date, "%Y-%m-%d")  # Format the date as YYYY-MM-DD
   
   # Construct the URL for the current date range
-  url <- paste0(base_url, target_start_date_str, "/", target_end_date_str, "?unitGroup=us&key=7ZNU9ZCTWVVPRND4YBZAA3QNV&include=days&forecastBasisDate=", forecast_basis_date_str, "&contentType=csv")
+  url <- paste0(base_url, target_start_date_str, "/", target_end_date_str, "?unitGroup=us&key=API_KEY&include=days&forecastBasisDate=", forecast_basis_date_str, "&contentType=csv")
   
   # Store the generated URL in the list
   url_list[[i + 1]] <- url
