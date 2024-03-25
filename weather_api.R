@@ -78,7 +78,7 @@ colnames(merged_data)[colnames(merged_data) == "tempmin"] <- "tempmin_forecast"
 # Download the historical weather data from Virtual Crossing --------------
 
 # Define the API URL
-api_url <- "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/22314/2021-01-01/2024-03-12?unitGroup=us&include=days&key=7ZNU9ZCTWVVPRND4YBZAA3QNV&contentType=csv"
+api_url <- ENTER API KEY HERE
 
 # Send GET request to the API URL
 response <- GET(api_url)
