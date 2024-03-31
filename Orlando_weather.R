@@ -112,6 +112,10 @@ history_subset <- historical_dataframe[, c("datetime", "tempmax_history", "tempm
 weather_merged <- merge(merged_data, history_subset, by = "datetime", all = F)
 
 
+# Limit sample down to a max length of 14 ---------------------------------
+
+weather_merged <- weather_merged[weather_merged$forecast_length != 15, ]
+
 # Analyze and summarize forecast accuracy ---------------------------------
 
 # Create a column with the spread of the number of days between the forecast and history columns
