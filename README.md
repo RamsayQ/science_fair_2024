@@ -4,7 +4,7 @@ This contains the results of a 7th grade science experiment. Below is a summary?
 
 Research Question: How accurate is weather forecasting?
 
-Hypotheses: (1) The closer the forecast is to the day of the forecast will provide higher accuracy; (2) colder weather will be easier to forecast than warmer weather.
+Hypotheses: (1) The closer the forecast is to the day of the forecast will provide higher accuracy; (2) warmer weather will be easier to forecast than colder weather.
 
 Independent variable: Forecast accuracy measured as the difference between actual maximum and minimum forecasts for 0-13 days ahead for Alexandria, Virginia for the period of January 1, 2021 to March 1, 2024.
 
