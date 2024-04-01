@@ -14,7 +14,7 @@ Control variables: To compare Alexandria to a warmer climate, the same analysis 
 
 # Science Fair Project Conclusions 
 
-1. Forecasts of both maximum and minimum temperatures were more accurate for Alexandria than Orlando for the period under study, January 1 2021 to March 1 2024.
+1. Forecasts of both maximum and minimum temperatures were more accurate for Orlando than Alexandria for the period under study, January 1 2021 to March 1 2024.
 
 2. On average, forecasts for 0-13 days in advance were off by 2.2 degrees for maximum temperatures for Alexandria and -0.1  for degrees for Orlando. Forecasts for minimum temperatures were off by 2.0 degrees for Alexandria and -1.4 degrees for Orlando. This suggests that it may be harder to forecast in cooler than warmer climates. The average maximum temperature for Alexandria was X and Y for Orlando.
 
