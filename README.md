@@ -22,14 +22,14 @@ Control variables: To compare Alexandria to a warmer climate, the same analysis 
 
 4. The experiment provides some evidence that it may be more difficult to predict the weather in the future. Climate change is supposed to make weather patterns more volatile. Going back to 2021, forecasts for Orlando were more accurate than Alexandria. The volatility of Orlando weather is about half that of Alexandria. The standard deviation of high temperatures in Orlando was 8.8 and for Alexandria it was 16.8. The standard deviation for Orlando minimum tempatures 9.8 and for Alexandria it was 15.8. 
 
-Alex max average miss: 2.2
-Alex in average miss: 2.2
+Alexandria max average miss: 2.2 degrees
+Alexandria in average miss: 2.1 degrees
 
-Orl max average miss: -0.1
-Orl min average miss: -1.4
+Orlando max average miss: -0.1 degrees
+Orlando min average miss: -1.4 degrees
 
-Alex variance max: 16.8
-Alex variance min: 15.8
+Alexandria variance max: 16.8
+Alexandria variance min: 15.8
 
-Orl variance max: 8.8
-Orl variance min: 9.8
+Orlando variance max: 8.8
+Orlando variance min: 9.8
