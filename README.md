@@ -1,6 +1,6 @@
 # Project Overview
 
-This contains the results of a 7th grade science experiment. Below is a summary?
+This contains the results of a 7th grade science experiment in weather forecasting accuracy.
 
 Research Question: How accurate is weather forecasting?
 
