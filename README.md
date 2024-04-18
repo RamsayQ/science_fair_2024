@@ -25,7 +25,7 @@ Control variables: To compare Alexandria to a warmer climate, the same analysis 
 5. Some summary statistical results from the experiment:
 
 Alexandria max average miss: 2.2 degrees
-Alexandria in average miss: 2.1 degrees
+Alexandria min average miss: 2.1 degrees
 
 Orlando max average miss: -0.1 degrees
 Orlando min average miss: -1.4 degrees
