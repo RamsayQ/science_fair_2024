@@ -20,7 +20,9 @@ Control variables: To compare Alexandria to a warmer climate, the same analysis 
 
 3. Forecasts were more accurate the closer you get to the forecast day, for both cities, for maximum temperatures but less so for minimumm temperatures. Forecasts issued 9-13 days in advance were off by over 3 degrees on average. This fell to less than 2 from day 8 and after. Forecasts for minimum temperatures were at about the same accuracy from 0 to 13 days in advance. This suggests that it is more difficult to forecast high temperatures than low temperatures.
 
-4. The experiment provides some evidence that it may be more difficult to predict the weather in the future. Climate change is supposed to make weather patterns more volatile. Going back to 2021, forecasts for Orlando were more accurate than Alexandria. The volatility of Orlando weather is about half that of Alexandria. The standard deviation of high temperatures in Orlando was 8.8 and for Alexandria it was 16.8. The standard deviation for Orlando minimum tempatures 9.8 and for Alexandria it was 15.8. 
+4. The experiment provides some evidence that it may be more difficult to predict the weather in the future. Climate change is supposed to make weather patterns more volatile. Going back to 2021, forecasts for Orlando were more accurate than Alexandria. The volatility of Orlando weather is about half that of Alexandria. The standard deviation of high temperatures in Orlando was 8.8 and for Alexandria it was 16.8. The standard deviation for Orlando minimum tempatures 9.8 and for Alexandria it was 15.8.
+
+5. Some summary statistical results from the experiment:
 
 Alexandria max average miss: 2.2 degrees
 Alexandria in average miss: 2.1 degrees
